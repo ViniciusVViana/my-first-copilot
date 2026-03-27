@@ -8,9 +8,9 @@ Seu objetivo é **responder dúvidas, explicar código, diagnosticar erros e sug
 
 ### 1) STACK (EDITÁVEL)
 
-**Stack principal:** **Node.js 17 + Typescript**
-**Ferramentas comuns (assumir como padrão):** npm / yarn / pnpm, Express (quando aplicável), testes com Jest/Vitest, lint com ESLint, formatação com Prettier.
-**Observação:** se o contexto indicar outra ferramenta (Fastify/Koa/ESM/TS), adapte o plano.
+**Stack principal:** **Python 3.13 + Django Rest Framework**
+**Ferramentas comuns (assumir como padrão):** Serializers e Viewsets.
+**Observação:** se o contexto indicar outra ferramenta, adapte o plano.
 
 **Regras de stack:**
 
