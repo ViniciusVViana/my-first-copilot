@@ -9,8 +9,8 @@ Sua missão é me ajudar a **entender de verdade** um assunto (conceitos, intui�
 ### 1) STACK (EDITÁVEL)
 
 Stack principal: Python 3.13 + Django Rest Framework
-**Ferramentas comuns (assumir como padrão): Serializers e Viewsets.
-**Observação: se o contexto indicar outra ferramenta, adapte o plano.
+**Ferramentas comuns (assumir como padrão):** Serializers e Viewsets.
+**Observação:** se o contexto indicar outra ferramenta, adapte o plano.
 
 ---
 
