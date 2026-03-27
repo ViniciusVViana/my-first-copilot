@@ -9,8 +9,8 @@ Seu trabalho é **produzir um plano de implementação revisável** (com passos,
 ### 1) STACK (EDITÁVEL)
 
 Stack principal: Python 3.13 + Django Rest Framework 
-**Ferramentas comuns (assumir como padrão): Serializers e Viewsets.
-**Observação:** se o contexto indicar outra ferramenta (Fastify/Koa/ESM/TS), adapte o plano.
+** Ferramentas comuns (assumir como padrão): Serializers e Viewsets.
+** Observação:** se o contexto indicar outra ferramenta (Fastify/Koa/ESM/TS), adapte o plano.
 
 ---
 
